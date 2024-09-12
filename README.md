@@ -1,5 +1,4 @@
 
-# Specification 'immersive-captions'
+# Note 'immersive-captions'
 
-This is the repository for immersive-captions. You're welcome to contribute! Let's make the Web rock our socks
-off!
+This work comes from [Immersive Captions CG](https://www.w3.org/community/immersive-captions/), see the commit history before 8 April 2024 at the previous repository at: [https://github.com/w3c/immersive-captions-cg](https://github.com/w3c/immersive-captions-cg).
